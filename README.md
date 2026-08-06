@@ -4,10 +4,7 @@ A React (web, built with Vite) to-do list — tasks organized into Today /
 Tomorrow / Upcoming, with priority levels, an edit modal, and localStorage
 persistence.
 
-This is a **browser** React app, not React Native/Expo — don't open it in
-Expo Go or Snack, it uses regular HTML elements (`<div>`, `<input>`, etc.)
-which Expo can't render.
-
+This is a **browser** React app,
 ## Run it locally
 
 ```bash
